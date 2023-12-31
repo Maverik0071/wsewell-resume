@@ -16,7 +16,7 @@ style = "github-dark"
   info = "Cyber Security DevOps and Software Developrt"
   description = "William Sewell's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/will_1.1.jpg"
+  avatarurl = "images/.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -56,6 +56,11 @@ style = "github-dark"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/WSewell1986/"
+[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 4
+  url = "https://telegram.com/Tyrone_Robinson/"
 
 # Menu links
 [[menu.main]]
